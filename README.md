@@ -67,6 +67,8 @@ function leakingAny(obj: any){
   return b;
 }
 ```
-- unknown :
+- unknown
+```ts
+```
 - never :
 - vlid :
