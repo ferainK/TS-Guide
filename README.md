@@ -344,7 +344,7 @@ hello<string>('Mark');
 hello('Mark');
 ```
 
-- 응용
+- 응용 (extends 활용법)
 ```ts
 interface IPersion{
   name: string;
